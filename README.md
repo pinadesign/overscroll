@@ -1,9 +1,7 @@
 Overscroll.js
 ==========
 
-An javascript workarround to prevent iOS overscroll but allows overscroll on children elements. Great for web applications.
-
-
+An javascript workarround to prevent iOS overscroll but allows overscroll on children elements. Great for web applications. The minified version is less than 1kb. Feel free to comment or to fork
 
 Bugs
 ----
