@@ -12,6 +12,6 @@ Bugs
 Installation
 ----
 * Download overscroll.js or overscroll.min.js
-* Insert <script src="overscroll.js"></script> at the end of your page just before the </body> tag
+* Insert <script src="overscroll.js"></script> at the end of your page just before the &lt;/body&gt; tag
 * Set Css so that body { overflow: "hidden"; }
 * Set any element overflow, overfow-x of overflow-y as "scroll" or "auto"
