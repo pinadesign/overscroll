@@ -54,7 +54,7 @@
 		// Animate
 		scrollanim = setInterval(function() {
 			obj_x.scrollLeft = obj_x.scrollLeft - speed_x
-			obj_y.scrollTop = obj_x.scrollTop - speed_y
+			obj_y.scrollTop = obj_y.scrollTop - speed_y
 			// Decelerate
 			speed_x = speed_x * 0.9;
 			speed_y = speed_y * 0.9;
